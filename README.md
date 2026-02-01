@@ -78,7 +78,7 @@ It manages Companies, Positions and Applications.
 ### Setup
 1) Create database in PostgreSQL:
     - db: `interntracker`
-2) Configure credentials in `application.yml`.
+2) Configure credentials in `application.properties`.
 3) Run:
     - `mvn clean install`
     - `mvn spring-boot:run`
