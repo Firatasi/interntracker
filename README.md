@@ -28,7 +28,7 @@ Bu proje, staj başvurularını tek yerde takip etmek için geliştirilmiş bir 
 ### Kurulum
 1) PostgreSQL’de veritabanı oluştur:
     - db: `interntracker`
-2) `application.yml` dosyasında kullanıcı/şifreyi ayarla.
+2) `application.properties` dosyasında kullanıcı/şifreyi ayarla.
 3) Projeyi çalıştır:
     - `mvn clean install`
     - `mvn spring-boot:run`
